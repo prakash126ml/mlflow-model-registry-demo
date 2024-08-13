@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/9e28943a4aa24dca9dfcb4209e0ebd69/artifacts
+end_time: 1723567275857
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: 9e28943a4aa24dca9dfcb4209e0ebd69
+run_name: nebulous-stork-888
+run_uuid: 9e28943a4aa24dca9dfcb4209e0ebd69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567275851
+status: 3
+tags: []
+user_id: mtxit

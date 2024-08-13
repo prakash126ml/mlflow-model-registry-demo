@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/49f0df74c9e04acead9d2926db940f69/artifacts
+end_time: 1723568750133
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: 49f0df74c9e04acead9d2926db940f69
+run_name: indecisive-cub-920
+run_uuid: 49f0df74c9e04acead9d2926db940f69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723568750127
+status: 3
+tags: []
+user_id: mtxit

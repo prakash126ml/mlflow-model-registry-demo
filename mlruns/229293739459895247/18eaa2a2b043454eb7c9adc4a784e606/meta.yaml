@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/18eaa2a2b043454eb7c9adc4a784e606/artifacts
+end_time: 1723568749903
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: 18eaa2a2b043454eb7c9adc4a784e606
+run_name: wistful-wolf-316
+run_uuid: 18eaa2a2b043454eb7c9adc4a784e606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723568749888
+status: 3
+tags: []
+user_id: mtxit

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/56d28d7d68704080b64c25c915cdc0bd/artifacts
+end_time: 1723567275898
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: 56d28d7d68704080b64c25c915cdc0bd
+run_name: masked-cod-292
+run_uuid: 56d28d7d68704080b64c25c915cdc0bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567275892
+status: 3
+tags: []
+user_id: mtxit

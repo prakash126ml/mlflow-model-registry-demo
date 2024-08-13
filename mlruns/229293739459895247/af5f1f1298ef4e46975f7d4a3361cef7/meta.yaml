@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/af5f1f1298ef4e46975f7d4a3361cef7/artifacts
+end_time: 1723568274519
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: af5f1f1298ef4e46975f7d4a3361cef7
+run_name: carefree-sponge-645
+run_uuid: af5f1f1298ef4e46975f7d4a3361cef7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723568274513
+status: 3
+tags: []
+user_id: mtxit

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/43d58a637b67489aa102698fdd1ca24b/artifacts
+end_time: 1723567275864
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: 43d58a637b67489aa102698fdd1ca24b
+run_name: tasteful-shrimp-980
+run_uuid: 43d58a637b67489aa102698fdd1ca24b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567275858
+status: 3
+tags: []
+user_id: mtxit

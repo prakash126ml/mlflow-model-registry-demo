@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/e1067e13238e46b7bd57c0a0788e552e/artifacts
+end_time: 1723568750126
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: e1067e13238e46b7bd57c0a0788e552e
+run_name: languid-sheep-900
+run_uuid: e1067e13238e46b7bd57c0a0788e552e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723568750119
+status: 3
+tags: []
+user_id: mtxit

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/e36608d39f224fb693b446bb59d1567d/artifacts
+end_time: 1723568750022
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: e36608d39f224fb693b446bb59d1567d
+run_name: delicate-deer-73
+run_uuid: e36608d39f224fb693b446bb59d1567d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723568750014
+status: 3
+tags: []
+user_id: mtxit

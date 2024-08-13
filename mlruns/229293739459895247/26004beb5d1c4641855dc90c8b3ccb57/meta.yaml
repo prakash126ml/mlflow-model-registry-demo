@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/26004beb5d1c4641855dc90c8b3ccb57/artifacts
+end_time: 1723568274443
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: 26004beb5d1c4641855dc90c8b3ccb57
+run_name: loud-penguin-255
+run_uuid: 26004beb5d1c4641855dc90c8b3ccb57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723568274436
+status: 3
+tags: []
+user_id: mtxit

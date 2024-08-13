@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/225b0c9ce1254969af74ba95053b010f/artifacts
+end_time: 1723568274505
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: 225b0c9ce1254969af74ba95053b010f
+run_name: sedate-crow-914
+run_uuid: 225b0c9ce1254969af74ba95053b010f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723568274499
+status: 3
+tags: []
+user_id: mtxit

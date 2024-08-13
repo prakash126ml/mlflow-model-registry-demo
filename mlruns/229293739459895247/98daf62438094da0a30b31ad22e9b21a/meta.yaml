@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/98daf62438094da0a30b31ad22e9b21a/artifacts
+end_time: 1723567275945
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: 98daf62438094da0a30b31ad22e9b21a
+run_name: capricious-whale-997
+run_uuid: 98daf62438094da0a30b31ad22e9b21a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567275938
+status: 3
+tags: []
+user_id: mtxit

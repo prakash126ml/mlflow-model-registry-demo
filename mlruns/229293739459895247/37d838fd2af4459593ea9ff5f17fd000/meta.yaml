@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/37d838fd2af4459593ea9ff5f17fd000/artifacts
+end_time: 1723567275965
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: 37d838fd2af4459593ea9ff5f17fd000
+run_name: gaudy-gnu-43
+run_uuid: 37d838fd2af4459593ea9ff5f17fd000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567275959
+status: 3
+tags: []
+user_id: mtxit

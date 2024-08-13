@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/f2a2f46198c34f7b8c1fc272ec275b62/artifacts
+end_time: 1723568750118
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: f2a2f46198c34f7b8c1fc272ec275b62
+run_name: vaunted-midge-521
+run_uuid: f2a2f46198c34f7b8c1fc272ec275b62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723568750112
+status: 3
+tags: []
+user_id: mtxit

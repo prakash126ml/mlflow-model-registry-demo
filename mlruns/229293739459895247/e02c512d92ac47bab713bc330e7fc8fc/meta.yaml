@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/e02c512d92ac47bab713bc330e7fc8fc/artifacts
+end_time: 1723567275930
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: e02c512d92ac47bab713bc330e7fc8fc
+run_name: enchanting-cow-118
+run_uuid: e02c512d92ac47bab713bc330e7fc8fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567275925
+status: 3
+tags: []
+user_id: mtxit

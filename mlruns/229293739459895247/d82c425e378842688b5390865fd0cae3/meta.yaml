@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/d82c425e378842688b5390865fd0cae3/artifacts
+end_time: 1723568749945
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: d82c425e378842688b5390865fd0cae3
+run_name: learned-bug-919
+run_uuid: d82c425e378842688b5390865fd0cae3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723568749936
+status: 3
+tags: []
+user_id: mtxit

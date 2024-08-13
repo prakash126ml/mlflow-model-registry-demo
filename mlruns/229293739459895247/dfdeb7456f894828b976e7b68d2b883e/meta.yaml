@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/dfdeb7456f894828b976e7b68d2b883e/artifacts
+end_time: 1723568274476
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: dfdeb7456f894828b976e7b68d2b883e
+run_name: painted-duck-381
+run_uuid: dfdeb7456f894828b976e7b68d2b883e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723568274469
+status: 3
+tags: []
+user_id: mtxit

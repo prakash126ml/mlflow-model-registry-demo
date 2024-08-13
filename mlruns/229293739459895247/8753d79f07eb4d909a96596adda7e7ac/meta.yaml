@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/8753d79f07eb4d909a96596adda7e7ac/artifacts
+end_time: 1723567275884
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: 8753d79f07eb4d909a96596adda7e7ac
+run_name: smiling-steed-439
+run_uuid: 8753d79f07eb4d909a96596adda7e7ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567275878
+status: 3
+tags: []
+user_id: mtxit

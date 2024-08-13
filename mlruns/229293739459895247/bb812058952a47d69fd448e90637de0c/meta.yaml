@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/bb812058952a47d69fd448e90637de0c/artifacts
+end_time: 1723567275958
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: bb812058952a47d69fd448e90637de0c
+run_name: rare-crab-287
+run_uuid: bb812058952a47d69fd448e90637de0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567275953
+status: 3
+tags: []
+user_id: mtxit

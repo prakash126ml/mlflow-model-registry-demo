@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/2ce7748de786420698c5f95765cac92b/artifacts
+end_time: 1723568274512
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: 2ce7748de786420698c5f95765cac92b
+run_name: traveling-mouse-756
+run_uuid: 2ce7748de786420698c5f95765cac92b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723568274506
+status: 3
+tags: []
+user_id: mtxit

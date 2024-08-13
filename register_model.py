@@ -6,10 +6,10 @@ import mlflow
 client = MlflowClient()
 
 # Replace with the run_id of the run where the model was logged
-run_id = "ee2671fb022c47f89c27c9aa3ef25f42"
+run_id = "73ae0ec9200846e694b1d8ef6c67fc98"
 
 # Replace with the path to the logged model within the run
-model_path = "file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/ee2671fb022c47f89c27c9aa3ef25f42/artifacts/random_forest"
+model_path = "file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/73ae0ec9200846e694b1d8ef6c67fc98/artifacts/random_forest"
 
 # Construct the model URI
 model_uri = f"runs:/{run_id}/{model_path}"
@@ -39,7 +39,7 @@ client.set_model_version_tag(
     name=model_name,
     version=result.version,
     key="day",
-    value="sat"
+    value="Tuesday"
 )
 print(f"Model registered with name: {model_name} and version: {result.version}")
 print(f"Added tags to model {model_name} version {result.version}")

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/c8dc7593e80440d19851f938fc6b4b92/artifacts
+end_time: 1723567275923
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: c8dc7593e80440d19851f938fc6b4b92
+run_name: caring-hare-758
+run_uuid: c8dc7593e80440d19851f938fc6b4b92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723567275918
+status: 3
+tags: []
+user_id: mtxit

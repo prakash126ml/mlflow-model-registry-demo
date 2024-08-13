@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/c86979eaf3be48c2a8600e0165a17bfe/artifacts
+end_time: 1723568274490
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: c86979eaf3be48c2a8600e0165a17bfe
+run_name: selective-robin-673
+run_uuid: c86979eaf3be48c2a8600e0165a17bfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723568274484
+status: 3
+tags: []
+user_id: mtxit

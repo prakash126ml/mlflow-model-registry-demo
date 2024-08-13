@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/5d5248d580774f0b98d3f44c40286f02/artifacts
+end_time: 1723568750111
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: 5d5248d580774f0b98d3f44c40286f02
+run_name: clean-quail-815
+run_uuid: 5d5248d580774f0b98d3f44c40286f02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723568750104
+status: 3
+tags: []
+user_id: mtxit

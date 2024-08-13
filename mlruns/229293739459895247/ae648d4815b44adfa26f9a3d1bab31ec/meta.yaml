@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/ae648d4815b44adfa26f9a3d1bab31ec/artifacts
+end_time: 1723568274461
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: ae648d4815b44adfa26f9a3d1bab31ec
+run_name: beautiful-doe-977
+run_uuid: ae648d4815b44adfa26f9a3d1bab31ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723568274451
+status: 3
+tags: []
+user_id: mtxit

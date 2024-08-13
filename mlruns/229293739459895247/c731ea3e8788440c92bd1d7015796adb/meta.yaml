@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247/c731ea3e8788440c92bd1d7015796adb/artifacts
+end_time: 1723568750013
+entry_point_name: ''
+experiment_id: '229293739459895247'
+lifecycle_stage: active
+run_id: c731ea3e8788440c92bd1d7015796adb
+run_name: bright-bird-597
+run_uuid: c731ea3e8788440c92bd1d7015796adb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723568750002
+status: 3
+tags: []
+user_id: mtxit

@@ -1,0 +1,6 @@
+artifact_location: file:///Users/mtxit/Desktop/self/mlops/mlflow-model-registry-demo/mlruns/229293739459895247
+creation_time: 1723567272972
+experiment_id: '229293739459895247'
+last_update_time: 1723567272972
+lifecycle_stage: active
+name: diabetes-rf-hp
